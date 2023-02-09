@@ -1,3 +1,4 @@
+package test;
 /**
 * Print statements with proper style check.
 *
