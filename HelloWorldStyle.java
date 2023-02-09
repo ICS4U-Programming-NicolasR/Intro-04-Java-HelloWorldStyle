@@ -25,7 +25,7 @@ public final class HelloWorldStyle {
      * @param args Unused.
      *
      */
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
         // Print What I want to do this year
         System.out.print("Next year I plan on going to university for ");
         System.out.println("Physics");
